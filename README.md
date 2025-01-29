@@ -27,13 +27,6 @@
 
 <br/>
 
-<section>
-  <a href="https://github.com/ASP-J" style="display: flex; gap: 10px; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASP-J&show_icons=true&theme=merko&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASP-J&layout=compact&langs_count=8&theme=merko"/>
-  </a>
-</section>
-
 My contributions
 
 ![Snake animation](https://github.com/gustavosilvafh/gustavosilvafh/blob/output/github-contribution-grid-snake.svg)
