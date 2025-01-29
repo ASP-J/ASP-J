@@ -18,7 +18,7 @@
 <br/>
 
 <section>
-<ul align="center" >
+<ul >
   <li>📋 Full Stack Developer;</li>
   <li>💻 Passionate about technology, innovation, and coding;</li>
   <li>🚀 Working on Laravel, Vue.js, WordPress and Node.js projects;</li>
@@ -28,6 +28,6 @@
 
 <br/>
 
-<div align="center" >My contributions</div>
+<div align="center" > <b>My contributions </b></div>
 
 ![Snake animation](https://github.com/gustavosilvafh/gustavosilvafh/blob/output/github-contribution-grid-snake.svg)
