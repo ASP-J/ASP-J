@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js icon" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js icon" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress icon" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React icon" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails icon" />  
 </div>
 </header>
 
@@ -21,7 +23,7 @@
 <ul >
   <li>📋 Full Stack Developer;</li>
   <li>💻 Passionate about technology, innovation, and coding;</li>
-  <li>🚀 Working on Laravel, Vue.js, WordPress and Node.js projects;</li>
+  <li>🚀 Working on Ruby on Rails , React and Node.js projects;</li>
   <li>🏠 Currently on Home Office.</li>
 </ul>
 </section>
